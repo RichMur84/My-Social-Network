@@ -101,4 +101,5 @@ Have additional questions? Click the links below to reach me through my GitHub a
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<a href="mailto:grizzlylbc1@gmail.com">grizzlylbc1@gmail.com</a>
+
+[Link to Gmail](mailto:grizzlylbc1@gmail.com)
